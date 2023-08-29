@@ -17,6 +17,12 @@ Proyecto:
 
 - Porcentaje de LATAM más afectado
 
+- Proyectos novedosos relacionados al proyecto 
+
+- Docentes del curso
+
+- Bibliografía
+
 ### Integrales del proyecto
 
 - Alexander Martinez (colaborador) - alexander.martinez@upch.pe
