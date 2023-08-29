@@ -30,10 +30,6 @@ Proyecto:
 
 ### Proyectos novedosos relacionados al proyecto
 
-### Docentes del curso
-
-### Bibliografía
-
 
 
 
@@ -52,3 +48,5 @@ Proyecto:
 - Moisés Meza
 - José Alonso Cáceres
 - Julissa Venancio
+
+### Bibliografía
