@@ -15,6 +15,8 @@ Proyecto:
 
 - Rango de edad más afectado
 
+- Porcentaje de LATAM más afectado
+
 - 
 
 
