@@ -14,9 +14,23 @@ Proyecto:
 - Docentes del curso
 - Bibliografía
 
+## Objetivo del curso
+
+## Contenido del curso
+
+## Temática a desarrollar
+## Incidencia del proyecto
+## Prevalencia del proyecto
+## Rango de edad más afectado
+## Porcentaje de LATAM más afectado
+## Proyectos novedosos relacionados al proyecto 
+## Docentes del curso
+## Bibliografía
 
 
-### Integrales del proyecto
+
+
+### Integrantes del proyecto
 
 - Alexander Martinez (colaborador) - alexander.martinez@upch.pe
 - Jairo Villalobos (colaborador) - jairo.villalobos@upch.pe
