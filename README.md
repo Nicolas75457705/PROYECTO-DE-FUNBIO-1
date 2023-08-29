@@ -17,9 +17,8 @@ Proyecto:
 
 - Porcentaje de LATAM más afectado
 
-- 
 ### Integrales del proyecto
 
-
+- Alexander
 
 
