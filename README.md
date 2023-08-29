@@ -14,9 +14,9 @@ Proyecto:
 - Docentes del curso
 - Bibliografía
 
-## Objetivo del curso
+### Objetivo del curso
 
-## Contenido del curso
+### Contenido del curso
 
 ## Temática a desarrollar
 ## Incidencia del proyecto
