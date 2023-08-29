@@ -19,6 +19,10 @@ Proyecto:
 
 ### Integrales del proyecto
 
-- Alexander
+- Alexander Martinez (colaborador) - alexander.martinez@upch.pe
+- Jairo Villalobos (colaborador) - jairo.villalobos@upch.pe
+- Hudson Oliva (colaborador) - hudson.oliva@upch.pe
+- Nicolas Herrera (colaborador) - nicolas.herrera@upch.pe
+- Ariana Dextre (colaborador) - ariana.dextre@upch.pe
 
 
