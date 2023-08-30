@@ -41,7 +41,7 @@ Proyecto:
 - Nicolas Herrera (colaborador) - nicolas.herrera@upch.pe
 - Ariana Dextre (colaborador) - ariana.dextre@upch.pe
 
-### 
+### Foto grupal
 
 ### Profesores del curso
 
