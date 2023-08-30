@@ -17,7 +17,11 @@ Proyecto:
 ### Objetivo del curso
 En este curso se introducirá al estudiante al desarrollo de proyectos en el campo de la ingeniería a través del diseño de soluciones que atienden una necesidad en salud, aplicando el proceso de Diseño Determinístico en Ingeniería y VDI.
 ### Contenido del curso
-El curso consta de cuatro unidades principales
+El curso consta de cuatro unidades principales:
+- Unidad 1: Identifica la necesidad o problema
+- Unidad 2: Crea conceptos de solución
+- Unidad 3: Desarrolla la solución
+- Unidad 4: Comunica los resultados 
 ### Temática a desarrollar
 
 ### Incidencia del proyecto
