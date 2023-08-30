@@ -46,6 +46,7 @@ El curso consta de cuatro unidades principales:
 - Ariana Dextre (colaborador) - ariana.dextre@upch.pe
 
 ### Foto grupal
+![image](https://github.com/Nicolas75457705/PROYECTO-DE-FUNBIO-1/assets/143018747/20392b14-5638-468a-bcd9-33e25f094f66)
 
 ### Profesores del curso
 
