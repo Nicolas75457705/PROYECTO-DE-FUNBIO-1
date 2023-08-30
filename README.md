@@ -15,7 +15,7 @@ Proyecto:
 - Bibliografía
 
 ### Objetivo del curso
-
+Este curso desarrollará 
 ### Contenido del curso
 
 ### Temática a desarrollar
