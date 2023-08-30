@@ -15,9 +15,9 @@ Proyecto:
 - Bibliografía
 
 ### Objetivo del curso
-En este curso se introducirá al estudiante al desarrollo de proyectos en el campo de laingeniería a través del diseño de soluciones que atienden una necesidad en salud, aplicando elproceso de Diseño Determinístico en Ingeniería y VDI.
+En este curso se introducirá al estudiante al desarrollo de proyectos en el campo de la ingeniería a través del diseño de soluciones que atienden una necesidad en salud, aplicando el proceso de Diseño Determinístico en Ingeniería y VDI.
 ### Contenido del curso
-
+El curso consta de cuatro unidades principales
 ### Temática a desarrollar
 
 ### Incidencia del proyecto
