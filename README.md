@@ -56,3 +56,10 @@ El curso consta de cuatro unidades principales:
 - Julissa Venancio
 
 ### Bibliografía
+
+Cruz Sánchez, R. E., Calderón Ubaqui, V., Trevejo Bocanegra, A. P., & Mercado Portal, N. E. (2018). Control imagenológico de un quiste óseo simple: reporte de un caso. Revista Estomatológica Herediana, 28(3), 195. https://doi.org/10.20453/reh.v28i3.3397
+
+Nesrin Saruhan, Kosar Yasin Caglar, & Günay Gojayeva. (2019). The simple bone cyst. 1(1), 023–026. https://doi.org/10.30574/wjarr.2019.1.1.0008 ‌
+Lima, L.-B., Antonio, S., Barbosa, F., Servato, S., Rosa, R.-R., Paulo, … Sérgio Vitorino Cardoso. (2020). Simple bone cyst: description of 60 cases seen at a Brazilian School of Dentistry and review of international literature. Medicina Oral Patologia Oral Y Cirugia Bucal, e616–e625. https://doi.org/10.4317/medoral.23638
+Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
+
