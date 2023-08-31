@@ -9,7 +9,7 @@ Proyecto:
 - Incidencia del proyecto
 - Prevalencia del proyecto
 - Rango de edad más afectado
-- Porcentaje de LATAM más afectado
+- Tratamiento correspondiente al problema
 - Proyectos novedosos relacionados al proyecto 
 - Docentes del curso
 - Bibliografía
