@@ -66,3 +66,11 @@ Para esta enfermedad, el tratamiento puede variar dependiendo de la edad, especi
 
 -Toepfer, A., Strässle, M., Lenze, U., Lenze, F., & Harrasser, N. (2023). Allogenic Cancellous Bone versus Injectable Bone Substitute for Endoscopic Treatment of Simple Bone Cyst and Intraosseous Lipoma of the Calcaneus and Is Intraosseous Lipoma a Developmental Stage of a Simple Bone Cyst? Journal of Clinical Medicine, 12(13), 4272–4272. https://doi.org/10.3390/jcm12134272 ‌ ‌
 
+-Arévalo, S. E. P. (2002). Tratamiento del quiste sinovial con infiltración de metilprednisolona. Redalyc.org.  
+https://www.redalyc.org/articulo.oa?id=48708307
+
+-Hernandez, J., Martín, J. C. A., Torre, T. E., De Rozas, M. G., & Dutor, R. C. (2003). Tratamiento del quiste óseo simple en la 
+población infantil. Revista Española de Cirugía Ortopédica y Traumatología, 47(1), 48-54. https://doi.org/10.1016/s1888-4415(03)76069-x
+
+-Krauthamer, J. C. (s. f.). Tratamiento del quiste óseo simple con curetaje y relleno asistidos por endoscopía ósea - Revista de artroscopía. https://www.revistaartroscopia.com.ar/ediciones-anteriores/32-volumen-05-numero-1/volumen-9-numero-2/496-tratamiento-del-quiste-oseo-simple-con-curetaje-y-relleno-asistidos-por-endoscopia-osea#:~:text=El%20tratamiento%20cl%C3%A1sico%20es%20el,la%20posibilidad%20de%20procedimientos%20posteriores.
+
